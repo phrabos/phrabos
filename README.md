@@ -6,6 +6,17 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phrabos&layout=compact&theme=bear)](https://github.com/phrabos/github-readme-stats)
 
+****
+### Tech Skills
+```js
+skills {
+languages: ['Javascript', 'HTML', 'CSS'],
+LibrariesAndFrameworks: ['React','Node.js', 'Express', 'Discord.js'],
+database: ['SQL/Postgres'],
+testing: ['QUnit', 'Jest'],
+devTools: ['Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode']
+}
+```
 
 <!--
 **phrabos/phrabos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
