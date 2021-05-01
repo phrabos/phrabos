@@ -20,7 +20,7 @@ When I am not coding I like to run long distances, observe nature, travel, and s
 ```js
 skills {
 languages: ['Javascript', 'HTML', 'CSS'],
-LibrariesAndFrameworks: ['React','Node.js', 'Express', 'Discord.js'],
+librariesFrameworks: ['React','Node.js', 'Express', 'Discord.js'],
 database: ['SQL/Postgres'],
 testing: ['QUnit', 'Jest'],
 devTools: ['Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode']
