@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phrabos&show_icons=true&&count_private=true&include_all_commits=true&theme=bear" />
+<img src="http://gph.is/22laYCT" alt="running"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phrabos&langs_count=8&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+![Patrick's github stats]<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phrabos&show_icons=true&&count_private=true&include_all_commits=true&theme=bear" />
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phrabos&layout=compact&theme=bear)](https://github.com/phrabos/github-readme-stats)
 
 
 <!--
