@@ -25,4 +25,4 @@ devTools: ['Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode']
 ```
 ***
 ### Contact
-LinkedIn:  <a href="https://www.linkedin.com/in/patrick-hrabos/">in/patrick-hrabos/</a>
+LinkedIn:  <a href="https://www.linkedin.com/in/patrick-hrabos/">/patrick-hrabos/</a>
