@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I am Patrick (he/him) 🦩
+
+I am a software developer with a background in public and private accounting and a proven track record of meeting deadlines and delivering impactful results. I am enthusiastic about using code to solve real-world problems. 
+
+When I am not coding I like to run long distances, observe nature, travel, and sip the best loose-leaf teas I can find.
+
+💬 Ask me about the time I ran 135-miles through Death Valley... in July!
 
 <img width="100em" src="https://media.giphy.com/media/2eN0NkCvhjxqo/giphy.gif" alt="running"/>
 
@@ -17,18 +23,3 @@ testing: ['QUnit', 'Jest'],
 devTools: ['Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode']
 }
 ```
-
-<!--
-**phrabos/phrabos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
