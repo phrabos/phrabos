@@ -6,7 +6,7 @@ When I am not coding I like to run long distances, observe nature, travel, and s
 
 💬 Ask me about the time I ran 135-miles through Death Valley... in July!<br>
   
-<img width="100em" src="https://media.giphy.com/media/2eN0NkCvhjxqo/giphy.gif" alt="running"/><br>
+<img width="100em" src="https://media.giphy.com/media/2eN0NkCvhjxqo/giphy.gif" alt="running"/><br><br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phrabos&show_icons=true&&count_private=true&include_all_commits=true&theme=bear" />
 
