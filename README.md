@@ -16,11 +16,11 @@ When I am not coding I like to run long distances, observe nature, travel, and s
 ### Tech Skills
 ```js
 skills {
-languages: ['Javascript', 'HTML', 'CSS'],
-librariesFrameworks: ['React','Node.js', 'Express', 'Discord.js'],
-database: ['SQL/Postgres'],
-testing: ['QUnit', 'Jest'],
-devTools: ['Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode']
+  languages: ['Javascript', 'HTML', 'CSS'],
+  librariesFrameworks: ['React','Node.js', 'Express', 'Discord.js'],
+  database: ['SQL/Postgres'],
+  testing: ['QUnit', 'Jest'],
+  devTools: ['Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode']
 }
 ```
 ***
