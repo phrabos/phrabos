@@ -10,7 +10,7 @@ When I am not coding I like to run long distances, observe nature, travel, and s
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phrabos&show_icons=true&&count_private=true&include_all_commits=true&theme=bear" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phrabos&layout=compact&theme=bear&hide=pug)](https://github.com/phrabos/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phrabos&layout=compact&theme=bear&hide=pug&langs_count=6)](https://github.com/phrabos/github-readme-stats)
 
 ****
 ### Tech Skills
