@@ -1,5 +1,5 @@
 ## Hi, I am Patrick (he/him) 🦩 
-### LinkedIn:  <a href="https://www.linkedin.com/in/patrick-hrabos/">/patrick-hrabos/</a><br>
+#### LinkedIn:  <a href="https://www.linkedin.com/in/patrick-hrabos/">/patrick-hrabos/</a>
 
 I am a software developer with a background in public and private accounting and a proven track record of meeting deadlines and delivering impactful results. I am enthusiastic about using code to solve real-world problems. 
 
