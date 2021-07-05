@@ -1,7 +1,7 @@
 ## Hi, I am Patrick (he/him) 🦩 
 #### LinkedIn:  <a href="https://www.linkedin.com/in/patrick-hrabos/">/patrick-hrabos/</a>
 
-I am a software developer with a background in public and private accounting and a proven track record of meeting deadlines and delivering impactful results. I am enthusiastic about using code to solve real-world problems. 
+I am a software engineer with a background in public and private accounting and a proven track record of meeting deadlines and delivering impactful results. I am enthusiastic about using code to solve real-world problems. 
 
 When I am not coding I like to run long distances, observe nature, travel, and sip the best loose-leaf teas I can find.<br><br>
 
@@ -13,7 +13,7 @@ When I am not coding I like to run long distances, observe nature, travel, and s
 ### Tech Skills
 ```js
 skills {
-  languages: ['Javascript', 'HTML', 'CSS'],
+  languages: ['Javascript', 'TypeScript', 'HTML', 'CSS'],
   librariesFrameworks: ['React','Node.js', 'Express', 'Discord.js'],
   database: ['SQL/Postgres'],
   testing: ['QUnit', 'Jest'],
