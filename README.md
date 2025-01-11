@@ -6,8 +6,6 @@ I am a software engineer with a background in public and private accounting and 
 When I am not coding I like to run long distances, observe nature, travel, and sip the best loose-leaf teas I can find.<br><br>
 
 💬 Ask me about the time I ran 135-miles through Death Valley... in July! 
-  
-<img width="100em" src="https://media.giphy.com/media/2eN0NkCvhjxqo/giphy.gif" alt="running"/><br><br>
 
 ****
 ### Tech Skills
